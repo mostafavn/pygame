@@ -1,4 +1,3 @@
-#nabegheha.com
 import pygame
 import time
 import random
